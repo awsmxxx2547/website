@@ -1,0 +1,29 @@
+* {
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: 900;    
+}
+
+button {
+    background-color: black;
+    border: 2px solid darkslategray;
+    color: white;
+}
+
+button:active {
+    background-color: white;
+    color: black;
+}
+
+button:hover {
+    text-decoration: underline;
+    cursor: pointer;
+}
+
+footer {
+    position:absolute;
+    bottom: 0;
+}
+
+a {
+    color: black;
+}
